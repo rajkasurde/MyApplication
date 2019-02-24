@@ -1,6 +1,6 @@
 package com.masteroogway.myapplication.Logical;
 
-public class AddeToArrays {
+public class AddToArrays {
 
     public static void main(String... args) {
         char[] numeric = {'1', '2', '3', '4'};
